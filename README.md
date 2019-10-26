@@ -1,2 +1,3 @@
-# Bowling_Line_Booking
-Project of EE-551-Fall-2019 
+# A Bowling_Lane_Booking
+Fledged bowling lane booking system implemented in Python using object oriented programming.
+
