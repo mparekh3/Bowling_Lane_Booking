@@ -14,4 +14,3 @@ Fledged bowling lane booking system implemented in Python using object oriented 
 * Display available inventory.
 * Take request on hourly basis by verifying lane avalibility.
 
-Classes will be used for varios customers and lanes.
