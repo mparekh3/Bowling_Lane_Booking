@@ -1,5 +1,5 @@
 # Bowling_Lane_Booking_System
-Fledged bowling lane booking system implemented in Python using object oriented programming. For the basic idea of project, Below I show some basic structure of program application. Minor modification may be require in this structure once start programming. 
+Fledged bowling lane booking system implemented in Python using object oriented programming. For Understand the basic idea of project, Below I show structure of program application. This structure is only for referance purpose. Finishing structure may require modification in this structure.
 
 ## Customers can
 
