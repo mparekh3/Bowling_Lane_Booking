@@ -5,8 +5,8 @@ Fledged bowling lane booking system implemented in Python using object oriented 
 
 * See available lanes
 * Booking Bowling lane on hourly basis $15 per hour
-* Select number player will be players $5 per player (6 player max per lane)
-* Promotion: that can inclue discount 25% for more than 4 players
+* Select number players $5 per player (6 player max per lane)
+* Promotion: 25% Discount for more than 4 players
 
 ## Bowling_Lane_Booking_System Can 
 
