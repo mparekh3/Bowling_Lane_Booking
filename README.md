@@ -58,12 +58,45 @@ This class define the bowling lane system. This class include Lane display funct
 
 This code is written in python3.6 
 
-Simply run 
+Type: python main.py
 
-python main.py
-![image](https://user-images.githubusercontent.com/54687903/69930108-b05d3a00-148f-11ea-9ab9-3604b5c377e7.png)
- 
+
+![bwlanebk1](https://user-images.githubusercontent.com/54687903/69931214-6dea2c00-1494-11ea-8360-e90dfa675183.png)
+
 
 or depending upon your config 
 
 Python3 main.py 
+
+![bwlanebk2](https://user-images.githubusercontent.com/54687903/69930466-945a9800-1491-11ea-9267-e68482e2ba0d.PNG)
+
+You see screen like this:
+
+
+![demo1](https://user-images.githubusercontent.com/54687903/69930535-ccfa7180-1491-11ea-9b36-b9df0737fcf2.PNG)
+
+
+To see available lanes select option: 1. Display available lanes
+
+
+![demo2](https://user-images.githubusercontent.com/54687903/69930570-ec919a00-1491-11ea-8420-a3e829dd0d81.PNG)
+
+
+To book lane, select option: 2. Select lane
+Here, System is located lane to customer and ask about number of players.
+
+![demo3](https://user-images.githubusercontent.com/54687903/69930649-4e520400-1492-11ea-897d-4f7891ef9063.PNG)
+
+for example: here we located lane: 5 and we select 2 players for this lane. We will charged $15 per hour for lane and $5 per player.
+
+To finish the game, select option: 3. Game Over
+here, System is asking about your allocated lane. Any lane game can be over any time. We do not have to follow the sequences. Customers can see the bill for their game.
+
+![demo4](https://user-images.githubusercontent.com/54687903/69930786-c6b8c500-1492-11ea-839e-8d6a7e232e1c.PNG)
+
+For example: here we want to over the game for lane 5.
+
+We can close the application by selection option: 4. Eixt
+
+
+![demo5](https://user-images.githubusercontent.com/54687903/69931147-2499dc80-1494-11ea-9913-0b973cf25a49.PNG)
