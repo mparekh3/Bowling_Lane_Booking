@@ -34,12 +34,12 @@ Fledged bowling lane booking system implemented in Python using EE-551-Fall-2019
 
 Here, by default we set five bowling lanes. So, five customers can book the lane in this system. Two classes are created in bowlinglane.py: Customer class and Bowlinglane class. 
 
-###Customer Class: 
+### Customer Class: 
 
 Customer lanes, their booking time and their bill are defined in this class so Each customer have their individual lanes, lane book time and bill for the game. 
 
  
 
-###Bowlinglane Class: 
+### Bowlinglane Class: 
 
 This class define the bowling lane system. This class include Lane display function, Take a number of player input function, Lane booking function.  
