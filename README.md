@@ -57,8 +57,13 @@ This class define the bowling lane system. This class include Lane display funct
 ## How to run? 
 
 This code is written in python3.6 
+Open Terminal(for mac/linux) or command promp (windows) and clone this repository.
+change directy to cloned repostiory by typing: 
+###### cd Bowling_Lane_Booking
 
-Type: python main.py
+To run program type
+
+###### python main.py
 
 
 ![bwlanebk1](https://user-images.githubusercontent.com/54687903/69931214-6dea2c00-1494-11ea-8360-e90dfa675183.png)
