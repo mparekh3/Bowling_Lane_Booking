@@ -56,7 +56,7 @@ This class define the bowling lane system. This class include Lane display funct
 
 ## How to run? 
 
-This code is written in python3.6 
+This code is written in python3.6.
 Open Terminal(for mac/linux) or command promp (windows) and clone this repository.
 change directy to cloned repostiory by typing: 
 ###### cd Bowling_Lane_Booking
@@ -71,7 +71,7 @@ To run program type
 
 or depending upon your config 
 
-Python3 main.py 
+###### python3 main.py 
 
 ![bwlanebk2](https://user-images.githubusercontent.com/54687903/69930466-945a9800-1491-11ea-9267-e68482e2ba0d.PNG)
 
@@ -81,27 +81,27 @@ You see screen like this:
 ![demo1](https://user-images.githubusercontent.com/54687903/69930535-ccfa7180-1491-11ea-9b36-b9df0737fcf2.PNG)
 
 
-To see available lanes select option: 1. Display available lanes
+###### To see available lanes select option: 1. Display available lanes
 
 
 ![demo2](https://user-images.githubusercontent.com/54687903/69930570-ec919a00-1491-11ea-8420-a3e829dd0d81.PNG)
 
 
-To book lane, select option: 2. Select lane
+###### To book lane, select option: 2. Select lane
 Here, System is located lane to customer and ask about number of players.
 
 ![demo3](https://user-images.githubusercontent.com/54687903/69930649-4e520400-1492-11ea-897d-4f7891ef9063.PNG)
 
 for example: here we located lane: 5 and we select 2 players for this lane. We will charged $15 per hour for lane and $5 per player.
 
-To finish the game, select option: 3. Game Over
+###### To finish the game, select option: 3. Game Over
 here, System is asking about your allocated lane. Any lane game can be over any time. We do not have to follow the sequences. Customers can see the bill for their game.
 
 ![demo4](https://user-images.githubusercontent.com/54687903/69930786-c6b8c500-1492-11ea-839e-8d6a7e232e1c.PNG)
 
 For example: here we want to over the game for lane 5.
 
-We can close the application by selection option: 4. Eixt
+###### We can close the application by selection option: 4. Eixt
 
 
 ![demo5](https://user-images.githubusercontent.com/54687903/69931147-2499dc80-1494-11ea-9913-0b973cf25a49.PNG)
