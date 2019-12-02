@@ -14,7 +14,7 @@ Fledged bowling lane booking system implemented in Python using EE-551-Fall-2019
 
 * Select number of players. $5 will be charged per player. 
 
-* Return their booked-lane when game is over. 
+* Return their booked-lane when a game is over. 
 
   
 
@@ -24,7 +24,7 @@ Fledged bowling lane booking system implemented in Python using EE-551-Fall-2019
 
 * Display available lanes.  
 
-* Take the request of customers for lanes.
+* Take the request of customers for lanes. 
 
 * Issue the bill to customers for their booked lane. 
 
@@ -42,4 +42,26 @@ Customer lanes, their booking time and their bill are defined in this class so E
 
 ### Bowlinglane Class: 
 
-This class define the bowling lane system. This class include Lane display function, Take a number of player input function, Lane booking function.  
+This class define the bowling lane system. This class include Lane display function, Take a number of player input function, Lane booking function, lane request function and game over function. 
+
+###### Displaylane function: display avialable all lanes to customers. 
+
+###### Players function: Take a number players value. 
+
+###### Booklane function: This function initialized customers values line book lane line and number of players on those lanes. These values are used for billing when customer end the game. 
+
+###### Reqestlane function: In this function, Customer allocated a lane from available lane    list and Available lane list is updates for the next customer. 
+
+###### Gameover function: This function takes booked lane request from the customer when customer end the game. Bill is calculated in this lane and issue for customer. After taking the request of lane. Available lane list is also updated in this function. 
+
+## How to run? 
+
+This code is written in python3.6 
+
+Simply run 
+
+python main.py 
+
+or depending upon your config 
+
+Python3 main.py 
