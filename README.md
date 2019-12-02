@@ -24,11 +24,11 @@ Fledged bowling lane booking system implemented in Python using EE-551-Fall-2019
 
 * Display available lanes.  
 
-* Take the request of customers for lanes. 
+* Take the request of customers for lanes.
 
-*Issue the bill to customers for their booked lane. 
+* Issue the bill to customers for their booked lane. 
 
-*Update available lane list once a game is over. 
+* Update available lane list once a game is over. 
 
   
 
