@@ -44,15 +44,15 @@ Customer lanes, their booking time and their bill are defined in this class so E
 
 This class define the bowling lane system. This class include Lane display function, Take a number of player input function, Lane booking function, lane request function and game over function. 
 
-###### Displaylane function: display avialable all lanes to customers. 
+##### Displaylane function: display avialable all lanes to customers. 
 
-###### Players function: Take a number players value. 
+##### Players function: Take a number players value. 
 
-###### Booklane function: This function initialized customers values line book lane line and number of players on those lanes. These values are used for billing when customer end the game. 
+##### Booklane function: This function initialized customers values line book lane line and number of players on those lanes. These values are used for billing when customer end the game. 
 
-###### Reqestlane function: In this function, Customer allocated a lane from available lane    list and Available lane list is updates for the next customer. 
+##### Reqestlane function: In this function, Customer allocated a lane from available lane    list and Available lane list is updates for the next customer. 
 
-###### Gameover function: This function takes booked lane request from the customer when customer end the game. Bill is calculated in this lane and issue for customer. After taking the request of lane. Available lane list is also updated in this function. 
+##### Gameover function: This function takes booked lane request from the customer when customer end the game. Bill is calculated in this lane and issue for customer. After taking the request of lane. Available lane list is also updated in this function. 
 
 ## How to run? 
 
