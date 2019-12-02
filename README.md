@@ -60,7 +60,9 @@ This code is written in python3.6
 
 Simply run 
 
-python main.py 
+python main.py
+![image](https://user-images.githubusercontent.com/54687903/69930108-b05d3a00-148f-11ea-9ab9-3604b5c377e7.png)
+ 
 
 or depending upon your config 
 
